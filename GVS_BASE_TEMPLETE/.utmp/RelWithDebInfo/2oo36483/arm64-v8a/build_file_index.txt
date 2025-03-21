@@ -1,0 +1,2 @@
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

@@ -1,0 +1,17 @@
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+F:\GVS_Base_Project_REPO\GVS_BASE_PROJECT\GVS_BASE_TEMPLETE\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h

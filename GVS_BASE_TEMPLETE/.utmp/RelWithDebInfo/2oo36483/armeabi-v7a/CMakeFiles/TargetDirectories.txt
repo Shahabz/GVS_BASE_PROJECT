@@ -1,0 +1,5 @@
+F:/GVS_Base_Project_REPO/GVS_BASE_PROJECT/GVS_BASE_TEMPLETE/.utmp/RelWithDebInfo/2oo36483/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/GVS_Base_Project_REPO/GVS_BASE_PROJECT/GVS_BASE_TEMPLETE/.utmp/RelWithDebInfo/2oo36483/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+F:/GVS_Base_Project_REPO/GVS_BASE_PROJECT/GVS_BASE_TEMPLETE/.utmp/RelWithDebInfo/2oo36483/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+F:/GVS_Base_Project_REPO/GVS_BASE_PROJECT/GVS_BASE_TEMPLETE/.utmp/RelWithDebInfo/2oo36483/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+F:/GVS_Base_Project_REPO/GVS_BASE_PROJECT/GVS_BASE_TEMPLETE/.utmp/RelWithDebInfo/2oo36483/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
