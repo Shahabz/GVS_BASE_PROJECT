@@ -11,10 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Mobile Monetization Pro/Scenes/DemoGame.unity
     guid: a37631035c3f040ebb9d4e88bb17c48f
-  - enabled: 1
+  - enabled: 0
     path: Assets/GVS_BASE_TEMPLETE/Scenes/SampleScene.unity
     guid: 642a15d1dd483fe4bada981b6a3665b4
-  - enabled: 1
+  - enabled: 0
     path: Assets/GVS_BASE_TEMPLETE/Scenes_Folder/SplashScreen_templete.unity
     guid: d658605d8a55af74bad70eced27d6bc5
   - enabled: 1
