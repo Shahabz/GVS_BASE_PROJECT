@@ -6,9 +6,11 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 // Android Resolver Dependencies Start
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4' // Assets/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:12
+    implementation 'com.google.ads.mediation:unity:4.13.0.0' // Assets/GoogleMobileAds/Mediation/UnityAds/Editor/UnityMediationDependencies.xml:25
     implementation 'com.google.android.gms:play-services-ads:23.6.0' // Assets/GoogleMobileAds/Editor/GoogleMobileAdsDependencies.xml:7
     implementation 'com.google.android.ump:user-messaging-platform:3.1.0' // Assets/GoogleMobileAds/Editor/GoogleUmpDependencies.xml:7
     implementation 'com.google.code.gson:gson:2.8.5' // Assets/GoogleMobileAdsNative/Editor/GoogleMobileAdsNativeDependencies.xml:7
+    implementation 'com.unity3d.ads:unity-ads:4.13.0' // Assets/GoogleMobileAds/Mediation/UnityAds/Editor/UnityMediationDependencies.xml:33
 // Android Resolver Dependencies End
 **DEPS**}
 

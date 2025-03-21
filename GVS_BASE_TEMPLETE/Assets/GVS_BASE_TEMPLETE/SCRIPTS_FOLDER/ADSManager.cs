@@ -129,6 +129,24 @@ public class ADSManager : Singleton<ADSManager>
                 MobileAds.RaiseAdEventsOnUnityMainThread = true;
                 MobileAds.Initialize(initStatus =>
                 {
+                    Dictionary<string, AdapterStatus> map = initStatus.getAdapterStatusMap();
+                    foreach (KeyValuePair<string, AdapterStatus> keyValuePair in map)
+                    {
+                        string className = keyValuePair.Key;
+                        AdapterStatus status = keyValuePair.Value;
+                        switch (status.InitializationState)
+                        {
+                            case AdapterState.NotReady:
+                                // The adapter initialization did not complete.
+                                MonoBehaviour.print("Adapter: " + className + " not ready.");
+                                break;
+                            case AdapterState.Ready:
+                                // The adapter was successfully initialized.
+                                MonoBehaviour.print("Adapter: " + className + " is initialized.");
+                                break;
+                        }
+                    }
+
                     IsAdsInitializationCompleted = true;
                     if (ShowBannerAdsInStart == true)
                     {
